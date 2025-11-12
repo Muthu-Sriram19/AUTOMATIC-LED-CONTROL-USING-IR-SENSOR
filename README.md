@@ -26,7 +26,8 @@ An **IR sensor** detects the presence of an object by emitting and receiving inf
 ### **Procedure**
 
 1. Open **STM32CubeIDE**.
-   <img width="1050" height="591" alt="image" src="https://github.com/user-attachments/assets/109135f6-e6f9-46f8-86e1-ecafa6170b01" />
+<img width="1920" height="1200" alt="Screenshot (214)" src="https://github.com/user-attachments/assets/527fba71-a1e5-4c4f-89f9-38126edd2ca5" />
+
 
 2. Click **File → New STM32 Project**.
    <img width="1080" height="608" alt="image" src="https://github.com/user-attachments/assets/a5799efb-57e1-42b8-ba46-b09f32d86fcb" />
@@ -38,6 +39,7 @@ An **IR sensor** detects the presence of an object by emitting and receiving inf
 
 
 4. Name the project.
+   
    <img width="533" height="588" alt="image" src="https://github.com/user-attachments/assets/63de2bab-69d4-4cb9-8db6-1b57adff9878" />
 
 5. The corresponding `.ioc` file will be generated automatically.
@@ -103,7 +105,11 @@ int main(void)
 ### OUTPUT
 CASE 1: LED ON 
 
+![WhatsApp Image 2025-11-04 at 4 43 12 PM](https://github.com/user-attachments/assets/2df4d9f3-2185-4fb6-bdc8-c01936f503cb)
+
 CASE 2: LED OFF
+
+![WhatsApp Image 2025-11-04 at 4 43 02 PM](https://github.com/user-attachments/assets/e96e79c2-c87e-40b8-bfef-469e11284235)
 
 ---
 ### RESULT
